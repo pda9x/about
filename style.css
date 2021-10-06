@@ -54,7 +54,7 @@ body {
   display: flex;
   justify-content: center;
   align-items: flex-end;
-  padding-bottom: 45px;
+  padding-bottom: 35px;
 }
 
 .content .detail {
@@ -80,7 +80,7 @@ body {
 .sci {
   position: relative;
   display: flex;
-  margin-top: 5px;
+  margin-top: 10px;
 }
 
 .sci li {
