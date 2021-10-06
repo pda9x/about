@@ -39,7 +39,7 @@ const getContext = () => {
   tSpeedFactor = [.2, .4, .6, .8, 1],
   i;
 
-  const colors = ['#a5dff9', '#ef5285', '#feee7d'];
+  const colors = ['#a5dff9', '#ef5285', '#feee7d','#0390f4','#03f4c880'];
 
   for (i = 0; i < n; i++) {
     cubes.push({
